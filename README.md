@@ -1,6 +1,6 @@
 ## Reconhecimentos e Direitos Autorais
 
-- **Autor:** [aMANDA MAIA Soare Silva, Guilherme de Pádua f. Amorim, GUSTAVO ANTONIO silva rocha, IRLANDA HILDENEY Oliveira texeira]
+- **Autor:** Guilherme de Pádua f. Amorim, Amanda Maia Soare Silva, Gustavo Antonio Silva Rocha, Irlanda Hildeney Oliveira Texeira
 - **Contato:** guilhermepamorim0@gmail.com
 - **Data última versão:** 10/12/2023
 - **Versão:** 1.0
